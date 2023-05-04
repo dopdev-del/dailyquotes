@@ -43,6 +43,7 @@ function Appe() {
     <div>
       <Header/>
       {notes.map(createNotes)}
+      <Footer />
     </div>
   );
 }

@@ -3,7 +3,7 @@ import React from "react";
 function Header() {
   return (
     <header>
-      <h1>Daily Quotes <p className="lol"><strong>made with love using ReactJS ❤️</strong></p> </h1>
+      <h1> THE UNLOCK CENTER<p className="lol"><strong> eBay trusted sellers ❤️</strong></p> </h1>
     </header>
   );
 }

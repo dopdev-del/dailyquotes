@@ -1,10 +1,10 @@
 const notes = [
     {
       key: 1,
-      imgURL: "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2022/04/22/16506426248329.jpg",
-      title: "Friedrich Nietzsche",
+      imgURL: "https://www.phoneplacekenya.com/wp-content/uploads/2022/02/Google-Pixel-7.jpg",
+      title: "GOOGLE PIXEL 7 UNLOCK SERVICE",
       content:
-        "“The true man wants two things: danger and play.”"
+        "“THIS IS A TEMPORARY UNLOCK PROCESS IT WILL WORKS UNTIL YOU FACTORY RESET THE PHONE, SUPPORT UPDATES”"
     },
     {
       key: 2,

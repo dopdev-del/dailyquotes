@@ -8,10 +8,10 @@ const notes = [
     },
     {
       key: 2,
-      imgURL: "https://pymstatic.com/111657/conversions/socrates-wide.jpg",
-      title: "Socrates",
+      imgURL: "https://cdn.dxomark.com/wp-content/uploads/medias/post-160143/Google-Pixel-8-featured-image-packshot-review-Recovered.jpg",
+      title: "GOOGLE PIXEL 8 UNLOCK SERVICE",
       content:
-        "“The only true wisdom is in knowing you know nothing.”"
+        "“THIS IS A TEMPORARY UNLOCK PROCESS IT WILL WORKS UNTIL YOU FACTORY RESET THE PHONE, SUPPORT UPDATES”"
     },
     {
       key: 3,
